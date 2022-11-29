@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=course2resourcegrou8dc1;AccountKey=2Gy3cKNc5RkbbyHsX2n/VcBrmNm12sR6LZe5YndW08iW83NBaxYrYtdFlu/onSjh2t7wJ6VF2cVt+ASt3FPTag==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "FUNCTIONS_EXTENSION_VERSION": "~4",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=course2resourcegrou8dc1;AccountKey=2Gy3cKNc5RkbbyHsX2n/VcBrmNm12sR6LZe5YndW08iW83NBaxYrYtdFlu/onSjh2t7wJ6VF2cVt+ASt3FPTag==;EndpointSuffix=core.windows.net",
+    "WEBSITE_CONTENTSHARE": "neighborlyappfunction8d38",
+    "MyDbConnection": "mongodb://neighborlyapp:yu3jBbwFFSsPRfEH7frMXdGU8oIS9qoI4MTAFa6EFXxub8uDFMYWEITd7rwcjiF6ztNe1Ut4Pad4ACDbFKAH0A==@neighborlyapp.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@neighborlyapp@",
+    "AzureWebJobs.HttpTrigger1.Disabled": "true"
+  }
+}
