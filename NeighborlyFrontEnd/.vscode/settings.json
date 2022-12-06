@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/1338e72a-7ddf-4847-b972-c1395920d112/AppServices/subscriptions/1338e72a-7ddf-4847-b972-c1395920d112/resourceGroups/course2resourcegroup/providers/Microsoft.Web/sites/neighborlyappweb",
+    "appService.deploySubpath": "."
+}
